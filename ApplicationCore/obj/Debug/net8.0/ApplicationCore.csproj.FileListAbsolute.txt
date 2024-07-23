@@ -1,0 +1,12 @@
+/Users/farazahmed/RiderProjects/WebApplication1/ApplicationCore/bin/Debug/net8.0/ApplicationCore.deps.json
+/Users/farazahmed/RiderProjects/WebApplication1/ApplicationCore/bin/Debug/net8.0/ApplicationCore.dll
+/Users/farazahmed/RiderProjects/WebApplication1/ApplicationCore/bin/Debug/net8.0/ApplicationCore.pdb
+/Users/farazahmed/RiderProjects/WebApplication1/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.AssemblyReference.cache
+/Users/farazahmed/RiderProjects/WebApplication1/ApplicationCore/obj/Debug/net8.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farazahmed/RiderProjects/WebApplication1/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/farazahmed/RiderProjects/WebApplication1/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfo.cs
+/Users/farazahmed/RiderProjects/WebApplication1/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/farazahmed/RiderProjects/WebApplication1/ApplicationCore/obj/Debug/net8.0/ApplicationCore.dll
+/Users/farazahmed/RiderProjects/WebApplication1/ApplicationCore/obj/Debug/net8.0/refint/ApplicationCore.dll
+/Users/farazahmed/RiderProjects/WebApplication1/ApplicationCore/obj/Debug/net8.0/ApplicationCore.pdb
+/Users/farazahmed/RiderProjects/WebApplication1/ApplicationCore/obj/Debug/net8.0/ref/ApplicationCore.dll
