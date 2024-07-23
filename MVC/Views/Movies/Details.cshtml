@@ -1,0 +1,25 @@
+@model ApplicationCore.Models.MovieCardModel
+
+@{
+    ViewData["Title"] = "Movie Details";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>title</title>
+</head>
+<body>
+    <h1>@Model.Title</h1>
+    <div class="row">
+        <div class="col-md-4">
+            <img src="@Model.PosterUrl" alt="@Model.Title" class="img-fluid" />
+        </div>
+        <div class="col-md-8">
+            <p><strong>Title:</strong> @Model.Title</p>
+            <p><strong>Poster URL:</strong> @Model.PosterUrl</p>
+        </div>
+    </div>
+</body>
+</html>

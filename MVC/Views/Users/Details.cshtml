@@ -1,0 +1,21 @@
+@model ApplicationCore.Models.UserModel
+
+@{
+    ViewData["Title"] = "User Details";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>User Details</title>
+</head>
+<body>
+    <h1>@Model.FirstName @Model.LastName</h1>
+    <p><strong>First Name:</strong> @Model.FirstName</p>
+    <p><strong>Last Name:</strong> @Model.LastName</p>
+    <p><strong>Email:</strong> @Model.Email</p>
+    <p><strong>Profile Picture:</strong></p>
+    <img src="@Model.ProfilePictureUrl" alt="Profile Picture" class="img-fluid">
+</body>
+</html>
